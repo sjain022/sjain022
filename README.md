@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning some Machine Learning models, distributed systems and data handling.
 - 📫 How to reach me: sasajain@ucsc.edu
 - Languages I am fluent with :  Python, JavaScript, C++. Learning Go.
-
+- Hardware Design Journey : System Verilog
 
 - Things I like to do/ I would want to do outside computers:  Sing, play piano, Travel, Hit Gym.
 
