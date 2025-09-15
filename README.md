@@ -2,7 +2,6 @@
 
 ##### Why Computers? Well, I have always liked computers, I always thought they were powerful machines. So I thought of exploring them :) 
 -  Learning distributed systems and storage engines. 
-- 📫 How to reach me: sasajain@ucsc.edu
 - Languages I am fluent with :  Python, JavaScript, C++, Go.
 - Hardware Design Journey : System Verilog
 
